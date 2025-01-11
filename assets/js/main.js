@@ -1,4 +1,9 @@
 document.addEventListener('DOMContentLoaded', function(){
+    const userLang = navigator.language || navigator.userLanguage; // Detect browser language
+    if (userLang.startsWith('en')) {
+        window.location.href = "index-en.html"; // Redirect English users
+    }
+
     const tocbox = document.querySelector('.toc-box');
     var headers = document.querySelectorAll('.subject-name');
 
@@ -54,4 +59,43 @@ document.addEventListener('DOMContentLoaded', function(){
             tocLink.classList.add('active');
         }
     }, 200);
+
+
+    // scroll up to the top of the page
+    // Get the button element
+    const button = document.getElementById("back-to-top");
+
+    // Timeout variable to hide the button after a certain period
+    let timeout;
+
+    // Show the button when scrolling down
+    window.onscroll = function() {
+        // Show the button when scrolled down more than 100px
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            button.style.display = "block"; // Show the button
+            resetTimeout(); // Reset timeout every time the user scrolls
+        } else {
+            button.style.display = "none"; // Hide the button when at the top
+        }
+    };
+
+    // Scroll to the top when the button is clicked
+    button.addEventListener("click", function(event) {
+        event.preventDefault(); // Prevent the default action
+        window.scrollTo({ top: 0, behavior: "smooth" }); // Smooth scroll to the top
+    });
+
+    // Function to hide the button after a period of inactivity
+    function hideButton() {
+        button.style.display = "none"; // Hide the button after inactivity
+    }
+
+    // Function to reset the timeout and hide the button after 3 seconds of inactivity
+    function resetTimeout() {
+        clearTimeout(timeout); // Clear any existing timeout
+        timeout = setTimeout(hideButton, 2000); // Set a new timeout for 2 seconds
+    }
+
+    // Initialize the timeout to hide the button after 3 seconds of inactivity
+    resetTimeout();
 });

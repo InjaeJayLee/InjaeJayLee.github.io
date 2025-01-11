@@ -18,7 +18,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.title_kr }}</title>
+  <title>{{ site.title_en }}</title>
   {% seo %}
 
   <link rel="icon" type="image/png" href="{{ site.icon_img | prepend: site.baseurl }}">
@@ -33,18 +33,18 @@
   </div>
   <div id="about">
     <div class="profile-zone">
-      
+
       <div class="language-switch">
         <a href="/index.html" class="lang-btn {% if page.language == 'kr' %}active{% endif %}">한국어</a>
         <a href="/index-en.html" class="lang-btn {% if page.language == 'en' %}active{% endif %}">English</a>
       </div> 
-      
+
       <img class="profile-img" src="{{ site.profile_img | prepend: site.baseurl }}" alt="My Photo">
       <ul class="personal-info">
-        {% if site.address_kr %}
-        <li><a aria-label="My Address" href="https://www.google.com/maps/place/{{ site.address_kr }}">
+        {% if site.address_en %}
+        <li><a aria-label="My Address" href="https://www.google.com/maps/place/{{ site.address_en }}">
           <img src="{{ '/assets/img/location-dot.svg' | prepend: site.baseurl }}" alt="My Address">
-          <div><span>{{ site.address_kr }}</span></div>
+          <div><span>{{ site.address_en }}</span></div>
         </a></li>
         {% endif %}
         {% if site.email %}
@@ -65,17 +65,17 @@
             <div><span>{{ site.github_username }}</span></div>
           </a></li>
         {% endif %}
-        {% if site.notion_name_kr %}
+        {% if site.notion_name_en %}
           <li><a aria-label="My Notion" href="https://groovy-society-e57.notion.site/Learning-Note-1756d01552d080c1bc8de81ef19f70e4?pvs=74">
             <img src="{{ '/assets/img/notion.svg' | prepend: site.baseurl }}" alt="My Notion">
-            <div><span>{{ site.notion_name_kr }}</span></div>
+            <div><span>{{ site.notion_name_en }}</span></div>
           </a></li>
         {% endif %}
       </ul>
     </div>
     <div class="name-zone">
-      <h1>{{ site.name_kr }}</h1>
-      <h2>{{ site.job_kr }}</h2>
+      <h1>{{ site.name_en }}</h1>
+      <h2>{{ site.job_en }}</h2>
     </div>
   </div>
   <div id="contents">
@@ -124,7 +124,7 @@
   </div>
 
   <a href="#" id="back-to-top" class="back-to-top-btn">&#8593;</a>
-
+  
   <div id="footer">
     <span>
       Copyright © 2024 | <a href="https://github.com/byanko55">Yankos</a>

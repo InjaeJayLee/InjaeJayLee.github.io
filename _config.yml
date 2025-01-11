@@ -1,15 +1,22 @@
-title: Injae's CV
+title_kr: 이력서 (이인재)
+title_en: CV (Injae Lee)
+
 profile_img: /assets/img/profile.webp
 icon_img: /assets/img/icon.webp
 
-name: "Injae Lee"
-job: "Data Scientist"
+name_kr: "이인재"
+job_kr: "데이터 사이언티스트"
 
-address: Seoul
+name_en: "Injae Lee"
+job_en: "Data Scientist"
+
+address_en: Seoul
+address_kr: 서울
 email: inwo9091@gmail.com
 linkedin_username: injaelee-jay
 github_username: InjaeJayLee
-notion_name: Study Note
+notion_name_en: Study Note
+notion_name_kr: 스터디노트
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume

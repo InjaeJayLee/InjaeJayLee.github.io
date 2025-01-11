@@ -1,0 +1,16 @@
+subject: Experience
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: 데이터 사이언티스트 @ 타이드스퀘어
+    location: "*Seoul, South Korea*"
+    date: Dec 2022 - Present
+    description:
+      - XXXXXX
+      - XXXXXX
+  - title: 주니어 게임 개발자 @ Playwind Games
+    location: "*London, the United Kingdom*"
+    date: Sep 2019 - Apr 2021
+    description: 
+      - XXXXXX
+      - XXXXXX
