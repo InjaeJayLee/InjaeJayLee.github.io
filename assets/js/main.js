@@ -98,4 +98,10 @@ document.addEventListener('DOMContentLoaded', function(){
 
     // Initialize the timeout to hide the button after 3 seconds of inactivity
     resetTimeout();
+    
+    document.querySelectorAll('.content-sub-header').forEach(div => {
+        if (!div.textContent.trim()) { // Removes whitespace-only divs
+            div.remove();
+        }
+    });
 });

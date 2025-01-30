@@ -2,15 +2,19 @@ subject: Experience
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: 데이터 사이언티스트 @ 타이드스퀘어
-    location: "*Seoul, South Korea*"
-    date: Dec 2022 - Present
+  - title: 타이드스퀘어
+    position: 데이터 사이언티스트
+    location: 대한민국 서울
+    date: 2022.12 - 현재
     description:
-      - XXXXXX
-      - XXXXXX
-  - title: 주니어 게임 개발자 @ Playwind Games
-    location: "*London, the United Kingdom*"
-    date: Sep 2019 - Apr 2021
+      - Dynamic Pricing을 적용한 항공권 가격 정책 모델 개발
+      - 항공, 호텔, 액티비티 검색 랭킹모델 개발
+      - 신사업 아이템 발굴을 위한 분석
+  - title: Playwind Games
+    position: 게임 개발자
+    location: 영국 런던
+    date: 2019.09 - 2021.04
     description: 
-      - XXXXXX
-      - XXXXXX
+      - 게임내 플레이 컨텐츠 개발
+      - 개발 툴 개발
+      - 코드 및 성능 최적화

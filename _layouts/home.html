@@ -100,8 +100,17 @@
                       </span>
                     {% endif %}
                   </div>
-                  {% for item in member %}
-                    {% if item[0] != "title" and item[0] != "date" %}
+                  <div class="content-sub-header">
+                    {{ member.position | markdownify }}
+                    {% if member.location"%}             
+                      <span class="content-sub-location">
+                        <img src="{{ '/assets/img/pin.webp' | prepend: site.baseurl}}" alt="location">
+                        {{ member.location }}
+                      </span>
+                    {% endif %}
+                  </div>
+                  {% for item in member %}        
+                    {% if item[0] != "title" and item[0] != "date" and item[0] != "position"  and item[0] != "location" %}
                       {% if item[1].first %}
                         <ul>
                           {% for subitem in item[1] %}
