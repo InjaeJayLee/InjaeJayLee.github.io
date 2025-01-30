@@ -1,6 +1,5 @@
-subject: Languages
+subject: 외국어
 listing-order: 4
 icon: "/assets/img/globe.svg"
 contents:
-  - title: "Korean ('*Native*'): <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
-  - title: "English: <span style='color: indianred; margin: auto 8px; font-family: cursive;'>●●●◐○</span>"
+  - title: "English (CEFR level: C1): <span style='color: indianred; margin: auto 8px; font-family: cursive;'>●●●●○</span>"

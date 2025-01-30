@@ -1,21 +1,24 @@
-subject: Certifications
+subject: 자격증/수료증
 listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "가 ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "[AI for Medicine](https://coursera.org/share/87961d63c920c479d4fa1858b8027bee)"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "나 ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - 
+      - 
+  - title: "[Deep Learning](https://coursera.org/share/fc27815d85778db8e5d8d32f5a22c14e)"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "다 ([https://pitorch.org/](https://pytorch.org/))" 
+      - 
+      - 
+  - title: "[Mahine Learning](https://coursera.org/share/280ff22ef7daa541155ef03f5b10de73)"
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - 
+      - 
+  - title: "[Biostatistics in Public Health](https://coursera.org/share/714656b8be5103b45880724c03d1ce95)"
+    description: 
+      - 
+      - 
+  - title: "[Build a Modern Computer from First Principles](https://coursera.org/share/56ecac8f37d6fcca2c8dabe988269805)"
+    description: 
+      - 
+      - 
