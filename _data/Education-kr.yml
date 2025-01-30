@@ -4,15 +4,13 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: 데이터 사이언스 석사
     place: "*University of Texas at Austin, TX, United States of America*"
-    date: Aug 2021 - Dec 2022
-    grade: "**GPA**: `3.83/4`"
+    date: 2021.08 - 2022.12
+    grade: "**졸업평점**: `3.83/4`"
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-  - title: BSc in Naval Architecture and Ocean Engineering
-    place: "*Pusan National University, Busan, Republic of Korea*"
-    date: Mar 2009 - Feb 2016
-    grade: "**GPA**: `3.52/4.5`"
+      - 과목: Advanced Predictive Models, Natural Language Processing, Reinforcement Learning, Causal Inference 등
+  - title: 조선해양공학 학사
+    place: "*부산대학교, 대한민국 부산*"
+    date: 2009.03 - 2016.02
+    grade: "**졸업평점**: `3.52/4.5`"
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+      - 과목: 동역학, 전산유체역학, 선체저항, 선박계산, 구조역학 등
