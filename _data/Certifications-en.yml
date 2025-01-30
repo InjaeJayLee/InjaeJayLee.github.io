@@ -2,15 +2,8 @@ subject: Certifications
 listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "A ([https://chat.opena1.com/](https://chat.openai.com/))"
-    description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-  - title: "B ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
-    description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-  - title: "C ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
+  - title: "[AI for Medicine](https://coursera.org/share/87961d63c920c479d4fa1858b8027bee)"
+  - title: "[Deep Learning](https://coursera.org/share/fc27815d85778db8e5d8d32f5a22c14e)"
+  - title: "[Mahine Learning](https://coursera.org/share/280ff22ef7daa541155ef03f5b10de73)"
+  - title: "[Biostatistics in Public Health](https://coursera.org/share/714656b8be5103b45880724c03d1ce95)"
+  - title: "[Build a Modern Computer from First Principles](https://coursera.org/share/56ecac8f37d6fcca2c8dabe988269805)"
