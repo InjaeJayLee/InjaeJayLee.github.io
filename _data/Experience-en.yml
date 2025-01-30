@@ -7,14 +7,36 @@ contents:
     location: Seoul, South Korea
     date: Dec 2022 - Present
     description:
-      - Development of the dynamic pricing model for plane tickets
-      - Development of the ranking models for plane, hotel, and tour activity searches
-      - Research and analysis of new business ideas
+      - Developed a Dynamic Pricing-Based Fare Policy Model
+
+        - *Developed a future sales forecasting model*
+
+        - *Built a cancellation probability prediction model*
+
+        - *Analyzed the impact of fare promotions on ticket sales*
+
+        - *Examined reservation rates based on booking and departure dates*
+        
+        - *Created a performance monitoring dashboard*
+
+      - Developed Search Ranking Models for Flights, Hotels, and Activities
+
+        - *Designed search log event specifications*
+
+        - *Enhanced the tour activity search ranking model*
+
+        - *Developed a hotel search ranking model*
+
+        - *Developed an international flight search ranking model*
+
+        - *Created a dashboard to monitor performance and evaluate models*
+
   - title: Playwind Games
     position: Game Developer
     location: London, the United Kingdom
     date: Sep 2019 - Apr 2021
     description: 
-      - Development of gameplay content
-      - Development of game dev tools
-      - Code and performance optimization
+      - Developed gameplay content
+      - Developed game dev tools
+      - Optimized code and gameplay performance
+      - Addressed bug reports
