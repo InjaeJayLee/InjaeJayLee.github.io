@@ -10,35 +10,33 @@ contents:
       <h4>Airfare Pricing Model - Dynamic Pricing System for Flight Tickets</h4>
 
       <ul>
-        <li>  Designed and enhanced predictive models for flight ticket sales incorporating cancellation probabilities, promotions, and seasonality</li>
-        <li>  Built and maintained dashboards to monitor sales performance in real time</li>
-        <li>  Analyzed cancellation behavior and airline-specific promotional effects</li>
-        <li>  Investigated ticket issuance rates based on booking and departure date patterns</li>
+        <li>Designed and enhanced predictive models for flight ticket sales incorporating cancellation probabilities, promotions, and seasonality</li>
+        <li>Built and maintained dashboards to monitor sales performance in real time</li>
+        <li>Analyzed cancellation behavior and airline-specific promotional effects</li>
+        <li>Investigated ticket issuance rates based on booking and departure date patterns</li>
       </ul>
 
-      <strong>Achievements</strong>
-
+      <h5>Achievements</h5>
       <ul>
-        <li>  Developed a highly accurate forecasting model integrating multiple factors (e.g., cancellations, promotions), improving predictive accuracy by 50–300% compared to the previous model</li>
-        <li>  Reduced forecast volatility and improved business decision-making confidence</li>
+        <li>Developed a highly accurate forecasting model integrating multiple factors (e.g., cancellations, promotions), improving predictive accuracy by 50–300% compared to the previous model</li>
+        <li>Reduced forecast volatility and improved business decision-making confidence</li>
       </ul>
 
 
       <h4>Search Ranking Model – Flights, Hotels, and Activities</h4>
 
       <ul>
-        <li>  Developed and optimized ranking models for search results across multiple verticals (airfare, hotel, and activities)</li>
-        <li>  Designed event tracking schema to collect user behavior logs</li>
-        <li>  Built operational dashboards for model performance monitoring and business analysis</li>
+        <li>Developed and optimized ranking models for search results across multiple verticals (airfare, hotel, and activities)</li>
+        <li>Designed event tracking schema to collect user behavior logs</li>
+        <li>Built operational dashboards for model performance monitoring and business analysis</li>
       </ul>
 
-      <strong>Achievements</strong>
-
+      <h5>Achievements</h5>
       <ul>
-        <li>  Improved daily active users (DAU) by 30–100% for activity search through enhanced ranking relevance</li>
-        <li>  Enabled business and marketing teams to plan targeted campaigns and identify new market opportunities via dashboard insights</li>
-        <li>  Facilitated early detection and response to operational issues through monitoring dashboards</li>
-        <li>  Initiated documentation and code review practices, leading to measurable improvements in code quality across the team</li>
+        <li>Improved daily active users (DAU) by 30–100% for activity search through enhanced ranking relevance</li>
+        <li>Enabled business and marketing teams to plan targeted campaigns and identify new market opportunities via dashboard insights</li>
+        <li>Facilitated early detection and response to operational issues through monitoring dashboards</li>
+        <li>Initiated documentation and code review practices, leading to measurable improvements in code quality across the team</li>
       </ul>
 
 
@@ -50,30 +48,28 @@ contents:
       <h4>City Boom – Social Merge Simulation Game</h4>
 
       <ul>
-        <li>  Developed core gameplay features, including World Map and Tutorial System</li>
-        <li>  Implemented multiple event-based mini-games and level-specific animation effects</li>
-        <li>  Conducted code reviews and optimized performance for smoother user experience</li>
+        <li>Developed core gameplay features, including World Map and Tutorial System</li>
+        <li>Implemented multiple event-based mini-games and level-specific animation effects</li>
+        <li>Conducted code reviews and optimized performance for smoother user experience</li>
       </ul>
 
-      <strong>Achievements</strong>
-
+      <h5>Achievements</h5>
       <ul>
-        <li>  Led the architecture design and development of the World Map feature, one of the game’s core systems</li>
-        <li>  Maintained strong team productivity during remote work (COVID-19 period) through proactive communication and collaboration</li>
+        <li>Led the architecture design and development of the World Map feature, one of the game’s core systems</li>
+        <li>Maintained strong team productivity during remote work (COVID-19 period) through proactive communication and collaboration</li>
       </ul>
 
 
       <h4>Coin Adventure – Slot Machine-Based Social Game</h4>
 
       <ul>
-        <li>  Built key features such as the slot machine system and UI for in-game shop and items</li>
-        <li>  Created internal tools to streamline application of graphic resources for designers</li>
-        <li>  Participated in QA, bug resolution, and drove code review processes</li>
+        <li>Built key features such as the slot machine system and UI for in-game shop and items</li>
+        <li>Created internal tools to streamline application of graphic resources for designers</li>
+        <li>Participated in QA, bug resolution, and drove code review processes</li>
       </ul>
-
-      <strong>Achievements</strong>
       
+      <h5>Achievements</h5>
       <ul>
-        <li>  Developed a designer-focused tool, significantly improving workflow efficiency and asset quality</li>
-        <li>  Contributed to maintaining high code quality and fostering a collaborative engineering culture</li>
+        <li>Developed a designer-focused tool, significantly improving workflow efficiency and asset quality</li>
+        <li>Contributed to maintaining high code quality and fostering a collaborative engineering culture</li>
       </ul>
