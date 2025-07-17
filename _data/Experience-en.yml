@@ -7,26 +7,39 @@ contents:
     location: Seoul, South Korea
     date: Dec 2022 - Jul 2025
     description:
-      - **Airfare Pricing Model - Dynamic Pricing System for Flight Tickets**
+      <h4>Airfare Pricing Model - Dynamic Pricing System for Flight Tickets</h4>
 
       - Designed and enhanced predictive models for flight ticket sales incorporating cancellation probabilities, promotions, and seasonality
+
       - Built and maintained dashboards to monitor sales performance in real time
+
       - Analyzed cancellation behavior and airline-specific promotional effects
+
       - Investigated ticket issuance rates based on booking and departure date patterns
+
       - **Achievements**
+
       - Developed a highly accurate forecasting model integrating multiple factors (e.g., cancellations, promotions), improving predictive accuracy by 50–300% compared to the previous model
+
       - Reduced forecast volatility and improved business decision-making confidence
 
 
-      - **Search Ranking Model – Flights, Hotels, and Activities**
+      <h4>Search Ranking Model – Flights, Hotels, and Activities</h4>
 
       - Developed and optimized ranking models for search results across multiple verticals (airfare, hotel, and activities)
+
       - Designed event tracking schema to collect user behavior logs
+
       - Built operational dashboards for model performance monitoring and business analysis
+
       - **Achievements**
+
       - Improved daily active users (DAU) by 30–100% for activity search through enhanced ranking relevance
+
       - Enabled business and marketing teams to plan targeted campaigns and identify new market opportunities via dashboard insights
+
       - Facilitated early detection and response to operational issues through monitoring dashboards
+
       - Initiated documentation and code review practices, leading to measurable improvements in code quality across the team
 
 
@@ -35,21 +48,32 @@ contents:
     location: London, the United Kingdom
     date: Sep 2019 - Apr 2021
     description: 
-      - **City Boom – Social Merge Simulation Game**
+      <h4>City Boom – Social Merge Simulation Game</h4>
 
       - Developed core gameplay features, including World Map and Tutorial System
+
       - Implemented multiple event-based mini-games and level-specific animation effects
+
       - Conducted code reviews and optimized performance for smoother user experience
+
       - **Achievements**
+
       - Led the architecture design and development of the World Map feature, one of the game’s core systems
+
       - Maintained strong team productivity during remote work (COVID-19 period) through proactive communication and collaboration
 
 
-      - **Coin Adventure – Slot Machine-Based Social Game**
+
+      <h4>Coin Adventure – Slot Machine-Based Social Game</h4>
 
       - Built key features such as the slot machine system and UI for in-game shop and items
+
       - Created internal tools to streamline application of graphic resources for designers
+
       - Participated in QA, bug resolution, and drove code review processes
+
       - **Achievements**
+
       - Developed a designer-focused tool, significantly improving workflow efficiency and asset quality
+      
       - Contributed to maintaining high code quality and fostering a collaborative engineering culture
