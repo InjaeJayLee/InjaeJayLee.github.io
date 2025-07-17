@@ -2,15 +2,15 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: MSc in Data Science
+  - title: Master of Science in Data Science
     place: "*University of Texas at Austin, TX, United States of America*"
     date: Aug 2021 - Dec 2022
     grade: "**GPA**: `3.83/4`"
     description:
-      - "Subjects: Advanced Predictive Models, Natural Language Processing, Reinforcement Learning, Causal Inference, etc."
-  - title: BSc in Naval Architecture and Ocean Engineering
+      - "Relevant coursework: Advanced Predictive Models, Natural Language Processing, Reinforcement Learning, Causal Inference"
+  - title: Bachelor of Science in Naval Architecture and Ocean Engineering
     place: "*Pusan National University, Busan, Republic of Korea*"
     date: Mar 2009 - Feb 2016
     grade: "**GPA**: `3.52/4.5`"
     description:
-      - "Subjects: Dynamics, Computational Fluid Dynamics, Ship Resistance, Naval Architectural Calculation, Structural Analysis, etc."
+      - "Relevant coursework: Dynamics, Computational Fluid Dynamics, Ship Resistance, Naval Architectural Calculation, Structural Analysis"
